@@ -110,6 +110,12 @@ video
 
 }
 
+.play-button
+{
+  text-align: center;
+  padding: 10px;
+}
+
 
 /* footer */
 #footer
