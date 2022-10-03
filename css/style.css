@@ -1,0 +1,121 @@
+/* NAVIGATION BAR */
+
+#title
+{
+  background-color: #850E35;
+
+}
+.navbar
+{
+    padding-bottom: 1rem; 
+}
+.nav-item
+{
+    padding: 0 18px;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-lite', sans-serif;
+
+}
+.navbar-brand
+{
+    font-size: 2.5rem;
+}
+.download-button
+{
+    margin: 5% 3% 5% 0;
+} 
+.fa
+{
+  color: white;
+}
+
+/* VIDEO BOX */
+video
+{
+  width: 100%;
+  height: 800px;
+  padding: 5px;
+  padding-bottom: 5%;
+}
+@media (max-width:1028px) {
+video
+{
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  padding-bottom: 5%;
+}
+}
+
+/* blog section */
+.blog
+{
+  background-color:#FD841F;
+}
+.blogPhoto
+{
+  height: 450px;
+  padding: 0px 25px;
+
+}
+.section-heading
+{
+  color: white;
+  padding: 7% 15% 0% 15%;
+  font-size: 3rem;
+}
+.quote
+{
+  color: #D9F8C4;
+  padding: 0% 15%;
+}
+
+/* carosuel quote */
+#quote
+{
+    text-align: center;
+    background-color: #D9F8C4;
+    color: black;
+    
+}
+.testimonial-image
+{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-text
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+.carousel-item
+{
+    padding: 7% 15%;
+
+}
+
+
+/* footer */
+#footer
+{
+  background-color: black;
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon
+{
+  color: white;
+  margin: 20px 10px;
+}
+
+.social-icon:hover
+{
+  color: #FF9F29;
+}
