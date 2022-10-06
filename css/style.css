@@ -72,7 +72,7 @@ video
 .section-heading
 {
   color: white;
-  padding: 7% 15% 0% 15%;
+  padding: 7% 15% 2% 15%;
   font-size: 3rem;
 }
 
@@ -99,7 +99,7 @@ video
 
 .testimonial-text
 {
-    font-size: 3rem;
+    font-size: 4rem;
     line-height: 1.5;
 }
 
