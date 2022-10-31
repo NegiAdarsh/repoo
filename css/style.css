@@ -68,6 +68,8 @@ video
   height: 500px;
   width: 600px;
   padding-bottom: 25px;
+  padding-right: 0px;
+  border-left: 100px;
 }
 .section-heading
 {
